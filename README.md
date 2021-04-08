@@ -5,7 +5,7 @@ A simple small media or file to telegra.ph link uploader bot.
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
+(C) @SCProjectsLK
 Copyright permission under MIT LICENSE
 ```
 
@@ -32,3 +32,4 @@ python3 bot.py
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [SC ProjectsLK](https://t.me/SCProjectsLK)
